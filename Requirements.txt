@@ -1,6 +1,0 @@
-streamlit
-lasio
-scipy
-matplotlib
-numpy
-pandas
